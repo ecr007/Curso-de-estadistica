@@ -17,4 +17,4 @@
 
 ## Tamaño de la muestra segun el tipo de variable
 
-<img src="img/formulas.png" >
+<img src="img/formulas.png" width="70%">
